@@ -1,6 +1,6 @@
 # dice
 
-A new Flutter application.
+A Flutter application which can be used a as a virtual dice.
 
 ## Getting Started
 
